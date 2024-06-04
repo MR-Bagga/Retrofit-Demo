@@ -18,7 +18,7 @@ The app has the following main components:
 Model Classes - Album, AlbumItem\
 API Service Interface - AlbumService\
 Retrofit Instance - RetrofitInstance\
-Main Activity - MainActivity\
+Main Activity - MainActivity
 
 # Model Classes
 Album and AlbumItem classes represent the data structure for albums. Album is a list of AlbumItem objects.
