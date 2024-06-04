@@ -1,4 +1,3 @@
-
 # Retrofit Demo
 This is a simple Android app demonstrating the use of Retrofit library to consume a RESTful API. The app fetches and displays a list of albums and allows uploading a new album.
 
@@ -7,6 +6,9 @@ Android Studio\
 Retrofit library\
 Gson library\
 OkHttp Logging Interceptor
+
+# Base URL
+https://jsonplaceholder.typicode.com/
 
 # Libraries used
 Retrofit - A type-safe HTTP client for Android and Java.\
@@ -18,7 +20,7 @@ The app has the following main components:
 Model Classes - Album, AlbumItem\
 API Service Interface - AlbumService\
 Retrofit Instance - RetrofitInstance\
-Main Activity - MainActivity
+Main Activity - MainActivity\
 
 # Model Classes
 Album and AlbumItem classes represent the data structure for albums. Album is a list of AlbumItem objects.
